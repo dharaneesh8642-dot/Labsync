@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#0a2540"/>
+  <rect x="24" y="24" width="464" height="464" rx="72" fill="#0a2540" stroke="#2563eb" stroke-width="8"/>
+  
+  <!-- Laboratory Spot & Reticle Graphic -->
+  <circle cx="256" cy="220" r="110" fill="#ffffff" stroke="#3b82f6" stroke-width="12"/>
+  <circle cx="256" cy="220" r="60" fill="#2563eb"/>
+  
+  <!-- Reticle Crossbars -->
+  <line x1="256" y1="80" x2="256" y2="135" stroke="#38bdf8" stroke-width="12" stroke-linecap="round"/>
+  <line x1="256" y1="305" x2="256" y2="360" stroke="#38bdf8" stroke-width="12" stroke-linecap="round"/>
+  <line x1="116" y1="220" x2="171" y2="220" stroke="#38bdf8" stroke-width="12" stroke-linecap="round"/>
+  <line x1="341" y1="220" x2="396" y2="220" stroke="#38bdf8" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- LabSync Text -->
+  <text x="256" y="425" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="52" fill="#ffffff" text-anchor="middle" letter-spacing="4">LABSYNC</text>
+  <text x="256" y="465" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="22" fill="#93c5fd" text-anchor="middle" letter-spacing="2">SEC 63 BSA FIELD VERIFICATION</text>
+</svg>

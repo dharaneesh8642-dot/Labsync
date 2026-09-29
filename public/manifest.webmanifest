@@ -1,0 +1,24 @@
+{
+  "name": "LabSync - Narcotics Field Verification",
+  "short_name": "LabSync",
+  "description": "Offline-First Edge-AI Narcotics Field-Test Verification with Section 63 BSA Chain of Custody",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a2540",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
